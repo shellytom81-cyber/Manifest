@@ -1,0 +1,15 @@
+manifest/
+├── .github/
+│   └── workflows/          # Automated testing and deployment actions
+├── assets/
+│   ├── images/             # Visual assets, branding logos, and stall mockups
+│   └── docs/               # PDF decks, blueprints, and presentation resources
+├── docs/                   # Platform documentation and API specifications
+├── src/                    # Source code for the Manifest platform
+│   ├── components/         # Reusable UI components (Dark-mode cosmic layout)
+│   ├── engine/             # Thought-to-Screen pipeline code
+│   └── styles/             # Cosmic color palettes (#6C5CE7, #74B9FF, dark indigo)
+├── tests/                  # Unit and integration test suites
+├── .gitignore              # Ignores dependencies, builds, and .env files
+├── LICENSE                 # GNU General Public License v3.0
+└── README.md               # Repository documentation and overview
