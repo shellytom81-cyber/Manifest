@@ -1,0 +1,27 @@
+# Dependencies & Store
+node_modules/
+.pnpm-store/
+package-lock.json
+yarn.lock
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Build Outputs & Cache
+dist/
+build/
+.next/
+.out/
+.cache/
+
+# System & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
